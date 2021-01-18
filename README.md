@@ -35,6 +35,8 @@ https://codelabs-preview.appspot.com/?file_id=1fNYAKwiUYsbJZLbcDYZZTkW_Ha2kke-41
 
 •	pip install matplotlib
 
+•	pip install pyodbc
+
 
 ## Recommendation Engine Model
 
