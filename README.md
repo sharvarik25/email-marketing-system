@@ -1,5 +1,5 @@
 # MovieLens Email Marketing System
-A web application to email movie recommendations and showcase email and recommendation analytics 
+Created a web application which would send emails to the customers recommending top 5 movies based on Train Matchbox Recommender of Microsoft Azure. Analysed the performace of the model and email statistics using a third-party domain @MailGun and visualized on Microsoft Power BI.
 
 ## Project Proposal
 https://codelabs-preview.appspot.com/?file_id=1Tad2rzpMAGpc3Rr_Yl540uoLu_66FlSGplhfWdmfbLM#0
